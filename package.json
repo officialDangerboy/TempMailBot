@@ -1,0 +1,13 @@
+{
+  "name": "tempmail-telegram-bot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
