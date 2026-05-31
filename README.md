@@ -4,6 +4,10 @@ A Telegram bot that generates disposable email addresses using the Mail.tm API. 
 
 ---
 
+## HOW TO USE
+
+watch this : https://youtu.be/ze4c9AAHpmc?si=BQwg3FM9_ZcC_2c8
+
 ## ⚡ Features
 
 - `/newmail` — Generate a random disposable email
